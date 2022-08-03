@@ -9,4 +9,4 @@ Visit us at **[https://ecotivity.org](https://bonafyde.io)**
 5. **Open the [website](https://localhost:1313) in your browser.**
 
 ### Credits
-Made by Raymond Nucuta and Ritvik Warrier.
+Made by Raymond Nucuta & Ritvik Warrier.
