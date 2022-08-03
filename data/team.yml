@@ -1,0 +1,39 @@
+enable : true
+heading : Our
+headingSpan : Team
+teamMember :
+  - image : images/team/team-1.jpg
+    name : Charlie Liu
+    designation : CEO/Co-Founder
+    description : Student, developer, entrepreneur. Volunteer as a Senior Code Evangelist for CodeDay and CS Fair by SRND.
+    socialIcon :
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/charles-liu-4385b2175"
+      
+  - image : images/team/team-2.jpg
+    name : Isabel Zhou
+    designation : CMO/Co-Founder
+    description : Student, graphic designer, entrepreneur. Research intern at UCSB Department of Environmental Studies.
+    socialIcon :
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/isabelxzhou"
+      
+  - image : images/team/team-3.jpg
+    name : Raymond Nucuta
+    designation : CTO/Co-Founder
+    description : Student who loves to tinker with electronics and program apps. Eagle Scout and Nucuta Innovations CEO.
+    socialIcon :
+      - icon : tf-ion-social-linkedin
+        url : "https://www.linkedin.com/in/raymond-nucuta-b75659168"
+      
+  # - image : images/team/team-4.jpg
+  #   name : Placeholder
+  #   designation : Placeholder
+  #   description : Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur necessitatibus ullam, culpa odio.
+  #   socialIcon :
+  #     - icon : tf-ion-social-facebook
+  #       url : "#"
+  #     - icon : tf-ion-social-twitter
+  #       url : "#"
+  #     - icon : tf-ion-social-linkedin
+  #       url : "#"

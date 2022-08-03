@@ -1,0 +1,15 @@
+enable : true
+heading : Our
+headingSpan : Mission
+aboutItem : 
+- icon : tf-ion-earth
+  title : Green
+  content : The US produces 250+ million tons of waste yearly, yet barely ⅓ of it is recycled. We have one of the lowest recycling rates in the world, but with Ecotivity, it is our turn to rise to the top.
+
+- icon : tf-ion-checkmark-circled
+  title : Effective
+  content : We deliver proven results. Within one year, Ecotivity can significantly increase recycling rates. And at the same time, our users develop lasting habits that will spread among their communities.
+
+- icon : tf-ion-android-people
+  title : Personalized
+  content : The Ecotivity mobile app provides an individualized experience for each user. Rewards are tailored to your preferences, and you can track your stats to learn more about your environmental impact.

@@ -1,0 +1,13 @@
+enable : true
+image : images/about/ecotivity-prototype.jpg
+title : Changing the Way You Recycle
+description : Our solution revolves around the concept of gamification, defined as introducing game mechanics and elements into different activities.
+description2 : To gamify the recycling process, we combine innovative hardware and software to deliver meaningful results and an engaging user experience.
+aboutItem : 
+  - icon : tf-ion-cube
+    title : Ecotivity Tracker Device
+    content : An attachment for existing recycling bins on campus. Tracks items and syncs with companion app. Includes lights and sounds.
+    
+  - icon : tf-ion-iphone
+    title : Ecotivity Mobile App
+    content : A companion app that serves as a user's main portal. Shows detailed stats, provides rewards, locates nearby recycling bins, and more.

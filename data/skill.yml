@@ -1,0 +1,26 @@
+enable : false
+heading : Our
+headingSpan : Results
+title : Gamification has a real, significant impact on a person's habits.
+content : Ecotivity has been launched across several college campuses, and the resulting data is clear. Thanks to the rewards that we provide to our users, recycling rates have drastically increased at all of our active loactions.
+image : images/about/company-growth.png
+skillItem :
+  - itemNumber : 01 -
+    itemName :  Northwestern University
+    itemPercent : 90%
+    
+  - itemNumber : 02 -
+    itemName :  Georgia Insitute of Technology
+    itemPercent : 70%
+    
+  - itemNumber : 03 -
+    itemName :  Arizona State University
+    itemPercent : 80%
+    
+  - itemNumber : 04 -
+    itemName :  Stanford University
+    itemPercent : 95%
+    
+  - itemNumber : 05 -
+    itemName :  University of Pennsylvania
+    itemPercent : 75%

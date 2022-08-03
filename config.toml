@@ -1,0 +1,104 @@
+baseURL = "https://ecotivity.org/"
+languageCode = "en-us"
+DefaultContentLanguage = "en"
+title = "Ecotivity"
+theme = "meghna-hugo"
+summaryLength = 10
+
+[taxonomies]
+  author = "author"
+  category = "categories"
+  tag = "tags"
+
+# Menu
+[menu]
+    [[menu.nav]]
+    name = "Mission"
+    URL = "about"
+    weight = 2
+
+    #[[menu.nav]]
+    #name = "Results"
+    #URL = "team-skills"
+    #weight = 3
+
+    [[menu.nav]]
+    name = "Team"
+    URL = "our-team"
+    weight = 4
+
+    #[[menu.nav]]
+    #name = "Blog"
+    #URL = "blog"
+    #weight = 5
+
+    [[menu.nav]]
+    name = "Contact"
+    URL = "contact-us"
+    weight = 6
+
+# Site params
+[params]
+home= "Home"
+logo = "images/logo.png"
+gmapAPI = "Your API Key"
+# Meta data
+description = "Recycling Revolutionized"
+author = "Ecotivity"
+custom_css = ["css/custom.css"]
+
+    # Banner Section
+    [params.banner]
+    enable = true
+    bgImage = "images/slider/recycle-bin.jpg"
+    icon = "tf-ion-play"
+    heading = "Recycling Revolutionized"
+    content= "Welcome to Ecotivity, the world’s first commercial solution to gamify recycling on an individual basis. Learn how we inspire people to become environmentally concious by realizing the impact of their actions."
+    btn = true
+    btnText="Explore More"
+    btnURL="#about"
+
+    # call to action
+    [params.cta]
+    enable = true
+    title = "Coming Soon to Your College"
+    content = "Bring the future of recycling to your campus today."
+    btnURL = "#contact-us"
+    btnText = "Join Us"
+
+    # counter
+    [params.counter]
+    enable = false
+    bgImage = "images/backgrounds/bg-1.jpg"
+        [[params.counter.counterItem]]
+        title = "Happy Clients"
+        icon = "tf-ion-android-happy"
+        count = "320"
+
+        [[params.counter.counterItem]]
+        title = "Projects completed"
+        icon = "tf-ion-archive"
+        count = "565"
+
+        [[params.counter.counterItem]]
+        title = "Positive feedback"
+        icon = "tf-ion-thumbsup"
+        count = "95"
+
+        [[params.counter.counterItem]]
+        title = "Cups of Coffee"
+        icon = "tf-ion-coffee"
+        count = "2500"
+
+    # footer
+    [params.footer]
+        copyright = "Ecotivity"
+        copyrightURL = "http://www.ecotivity.org"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-instagram"
+        url = "https://instagram.com/ecotivityInc"
+
+        [[params.footer.socialIcon]]
+        icon = "tf-ion-social-twitter"
+        url = "https://twitter.com/ecotivityInc"
