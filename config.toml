@@ -1,7 +1,7 @@
 baseURL = "https://ecotivity.org/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Ecotivity"
+title = "BonaFyde"
 theme = "meghna-hugo"
 summaryLength = 10
 
@@ -13,7 +13,7 @@ summaryLength = 10
 # Menu
 [menu]
     [[menu.nav]]
-    name = "Mission"
+    name = "About"
     URL = "about"
     weight = 2
 
@@ -41,10 +41,10 @@ summaryLength = 10
 [params]
 home= "Home"
 logo = "images/logo.png"
-gmapAPI = "Your API Key"
+gmapAPI = "Your API "
 # Meta data
-description = "Recycling Revolutionized"
-author = "Ecotivity"
+description = "The Premier Physical Asset NFT Marketplace"
+author = "BonaFyde"
 custom_css = ["css/custom.css"]
 
     # Banner Section
@@ -52,10 +52,10 @@ custom_css = ["css/custom.css"]
     enable = true
     bgImage = "images/slider/recycle-bin.jpg"
     icon = "tf-ion-play"
-    heading = "Recycling Revolutionized"
-    content= "Welcome to Ecotivity, the world’s first commercial solution to gamify recycling on an individual basis. Learn how we inspire people to become environmentally concious by realizing the impact of their actions."
+    heading = "Sneaker Resale Revolutionized"
+    content= "Welcome to BonaFyde, the world's premier NFT marketplace for physical sneakers. Learn how we utilize Web 3.0 services to enable people worldwide to have receipts of any sneaker they buy, while blocking counterfeits from the market."
     btn = true
-    btnText="Explore More"
+    btnText="Learn More"
     btnURL="#about"
 
     # call to action
@@ -93,12 +93,12 @@ custom_css = ["css/custom.css"]
     # footer
     [params.footer]
         copyright = "Ecotivity"
-        copyrightURL = "http://www.ecotivity.org"
+        copyrightURL = "http://www.bonafyde.com"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-instagram"
-        url = "https://instagram.com/ecotivityInc"
+        url = "https://instagram.com/BonaFyde"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
-        url = "https://twitter.com/ecotivityInc"
+        url = "https://twitter.com/BonaFyde"
