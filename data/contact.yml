@@ -8,7 +8,7 @@ mapLatitude : 0.0
 mapLongitude: 0.0
 contactDetails :
   - icon : tf-map-pin
-    info : "Atlanta, Georgia"
+    info : "Phoenix, Arizona"
     
   - icon : tf-ion-ios-telephone-outline
     info : "Phone: +1 (770)-568-1824"
