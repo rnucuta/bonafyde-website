@@ -2,14 +2,14 @@ enable : true
 heading : How
 headingSpan : It Works
 aboutItem : 
-- icon : tf-ion-earth
+- icon : tf-ion-leaf
   title : Minting
   content : An NFT is minted, and the shoe is tagged by a manufacturer or retailing 
 
-- icon : tf-ion-checkmark-circled
+- icon : tf-ion-social-usd
   title : Sale
-  content : NFT is sold, and transfer in locked until receieved by customer
+  content : NFT is sold, and transfer is locked until receieved by customer
 
-- icon : tf-ion-android-people
-  title : Ownership is transferred
-  content : Ownership transferred by unlocking NFT with the tag
+- icon : tf-ion-qr-scanner
+  title : Smart Tag
+  content : Ownership of NFT is transferred by a smart tag
