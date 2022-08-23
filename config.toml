@@ -33,7 +33,7 @@ summaryLength = 10
     #weight = 5
 
     [[menu.nav]]
-    name = "Contact"
+    name = "Mint"
     URL = "contact-us"
     weight = 6
 
@@ -61,10 +61,10 @@ custom_css = ["css/custom.css"]
     # call to action
     [params.cta]
     enable = true
-    title = "Coming Soon to Your College"
-    content = "Bring the future of recycling to your campus today."
+    title = "Coming Soon to Your Local Shoe Shop"
+    content = "BonaFyde is certified!"
     btnURL = "#contact-us"
-    btnText = "Join Us"
+    btnText = "Test Minting"
 
     # counter
     [params.counter]
@@ -92,7 +92,7 @@ custom_css = ["css/custom.css"]
 
     # footer
     [params.footer]
-        copyright = "Ecotivity"
+        copyright = "BonaFyde"
         copyrightURL = "http://www.bonafyde.com"
 
         [[params.footer.socialIcon]]

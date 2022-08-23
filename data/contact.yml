@@ -1,8 +1,8 @@
 enable : true
 heading : Join
 headingSpan : Us
-title : Contact Details
-content : We are always expanding to new locations, and we can't wait to bring the future of recycling to your campus. Reach out today to learn more.
+title : Mint an NFT
+content : Currently, we are under beta testing. If you want to mint an NFT for your shoe, please fill out the form.
 enable_maps : false
 mapLatitude : 0.0
 mapLongitude: 0.0
@@ -10,9 +10,9 @@ contactDetails :
   - icon : tf-map-pin
     info : "Phoenix, Arizona"
     
-  - icon : tf-ion-ios-telephone-outline
-    info : "Phone: +1 (770)-568-1824"
+  # - icon : tf-ion-ios-telephone-outline
+  #   info : "Phone: +1 (770)-568-1824"
     
   - icon : tf-ion-ios-email-outline
-    info : "Email: info@ecotivity.org"
+    info : "Email: info@bonafyde.com"
     
