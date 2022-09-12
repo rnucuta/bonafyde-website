@@ -95,10 +95,10 @@ custom_css = ["css/custom.css"]
         copyright = "BonaFyde"
         copyrightURL = "http://www.bonafyde.com"
 
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-instagram"
-        url = "https://instagram.com/BonaFyde"
+        # [[params.footer.socialIcon]]
+        # icon = "tf-ion-social-instagram"
+        # url = "https://instagram.com/BonaFyde"
 
         [[params.footer.socialIcon]]
         icon = "tf-ion-social-twitter"
-        url = "https://twitter.com/BonaFyde"
+        url = "https://twitter.com/bebonafyde"
