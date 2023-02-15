@@ -4,7 +4,6 @@ DefaultContentLanguage = "en"
 title = "BonaFyde"
 theme = "meghna-hugo"
 summaryLength = 10
-#staticDir = "/static"
 
 [taxonomies]
   author = "author"
